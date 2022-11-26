@@ -7,13 +7,13 @@ Exploring Equality/Comparison interfaces
 
 In this repo, i m exploring equality/comparison microsoft interfaces :
 >
-> - IEquatable<T>
+> - IEquatable\<T>
 > - IComparable
-> - IComparable<T>
+> - IComparable\<T>
 > - IEqualityComparer
-> - IEqualityComparer<T>
+> - IEqualityComparer\<T>
 > - IComparer
-> - IComparer<T>
+> - IComparer\<T>
 > - IStructuralEquatable
 > - IStructuralComparable
 
