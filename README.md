@@ -1,3 +1,5 @@
+[![.NET](https://github.com/aimenux/EqualityDemo/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/aimenux/EqualityDemo/actions/workflows/ci.yml)
+
 # EqualityDemo
 ```
 Exploring Equality/Comparison interfaces
