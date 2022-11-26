@@ -1,2 +1,18 @@
 # EqualityDemo
-Exploring Equality/Comparisons interfaces
+```
+Exploring Equality/Comparison interfaces
+```
+
+In this repo, i m exploring equality/comparison microsoft interfaces :
+>
+> - IEquatable<T>
+> - IComparable
+> - IComparable<T>
+> - IEqualityComparer
+> - IEqualityComparer<T>
+> - IComparer
+> - IComparer<T>
+> - IStructuralEquatable
+> - IStructuralComparable
+
+**`Tools`** : vs22, net 6.0
